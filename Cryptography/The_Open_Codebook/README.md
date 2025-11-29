@@ -1,4 +1,4 @@
-# Crypto - The Open Codebook
+# The Open Codebook
 
 ## Description
 
